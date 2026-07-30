@@ -73,27 +73,6 @@ DHT11 + MQ-9
 
 ---
 
-## Repository Structure
-
-```
-transmitter/
-    ESP32 code for reading sensors and uploading data.
-
-receiver/
-    ESP32 code for reading data from ThingSpeak and displaying it.
-
-circuit/
-    Wiring diagram and schematic.
-
-images/
-    Project photos and screenshots.
-
-docs/
-    Documentation and project report.
-```
-
----
-
 ## Future Improvements
 
 - Rain Sensor
